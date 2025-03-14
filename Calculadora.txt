@@ -1,1 +1,2 @@
 declaração de variáveis
+Leitura de entreadas de programa
